@@ -210,7 +210,7 @@ Material:
     - Vector1_6A565B08: 0.00125
     - Vector1_6E0C8748: 1
     - Vector1_8FA3414C: 0.00125
-    - Vector1_9AE4D463: 0.8791209
+    - Vector1_9AE4D463: 0.8901099
     - Vector1_A0DA115A: 1
     - Vector1_AEE450F2: 0
     - Vector1_C878A855: 0
@@ -352,7 +352,7 @@ Material:
     m_Colors:
     - Color_776CB26D: {r: 0, g: 0, b: 0, a: 0}
     - Color_F5513A11: {r: 0, g: 0, b: 0, a: 0}
-    - Vector2_3D4D28F7: {r: -0.1608565, g: 0, b: 0, a: 0}
+    - Vector2_3D4D28F7: {r: -0.81922454, g: 0, b: 0, a: 0}
     - Vector3_3E01D877: {r: 0, g: 1, b: 0, a: 0}
     - Vector3_517452B7: {r: 0, g: 0, b: -1, a: 0}
     - Vector3_9B21BAA8: {r: 0, g: 0, b: 0, a: 0}
