@@ -1,7 +1,7 @@
 # RealTime-SolarSystem
 
 
-This project was created in around 3 weeks. The goal was to create a real-time simulation of our Solar System in a realistic scale.  
+This project was created in around 3 weeks, using Unity (version 2020.1.12f1). The goal was to create a real-time simulation of our Solar System in a realistic scale.  
 
 The position on the orbit was computed using Keplerian elements of each planet and the current date. We followed this tutorial : http://www.stjarnhimlen.se/comp/tutorial.html
 
